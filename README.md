@@ -9,6 +9,7 @@ FER, AY 2020/2021
 For my final thesis I implemented deep model consolidation. This method uses double distillation loss to consolidate two neural networks. Double distillation loss is a method based on a popular technique called knowledge distillation. Method is described in more detail in the [original paper](https://arxiv.org/abs/1903.07864).
 
 ## Results
+Results are described in detail in my [final thesis](http://www.zemris.fer.hr/~ssegvic/project/pubs/dekovic21bs.pdf).
 
 ## Usage
 For running the code you should follow these steps:
